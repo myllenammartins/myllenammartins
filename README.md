@@ -6,7 +6,7 @@
 
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
-- ⚡ Curiosidade: Apaixonada por ciência e tecnologia. Com formação em Biológicas, decidi trilhar uma nova jornada e mergulhar de cabeça na área de programação. Hoje, busco ativamente por oportunidades que impulsionem meu desenvolvimento nessa área fascinante e em constante evolução. 
+- ⚡ Curiosidade: Apaixonada por ciência e tecnologia. Com formação em Biológicas, decidi fazer uma transição de carreira, trilhar uma nova jornada e mergulhar de cabeça na área de programação. Hoje, busco ativamente por oportunidades que impulsionem meu desenvolvimento nessa área fascinante e em constante evolução. 
 
 <h6> :point_up: AH!! Fico super empolgada em receber feedbacks, então se algo chamar a sua atenção, sinta-se à vontade para me contar! Estou sempre aberta a sugestões e novas ideias. </h6> 
 
@@ -21,7 +21,7 @@
 
 
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias utilizadas
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" />   
