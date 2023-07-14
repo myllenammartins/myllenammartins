@@ -1,4 +1,3 @@
-<div align="center">
 # Olá, me chamo Myllena ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -6,6 +5,7 @@
 - 🌱 I’m currently learning desenvolvimento web : HTML | CSS | JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+<div align="center">
 ## Contato:
 <div>
   <a href = "mirandamartins05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
