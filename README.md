@@ -1,4 +1,4 @@
-# Olá, sou a Myllena ! 
+# Olá, sou a Myllena ! 👩🏽‍💻
  ## Bem vinda(o) ao meu perfil GitHub 👋
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
