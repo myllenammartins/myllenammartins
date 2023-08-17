@@ -1,5 +1,5 @@
 # Olá, sou a Myllena ! 👩‍💻
- ## Bem vinda(o) ao meu perfil GitHub 👋
+ ## Bem vinda(o) ao meu perfil GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
 
