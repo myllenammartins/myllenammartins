@@ -8,8 +8,6 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
 - ⚡ Apaixonada por ciência e tecnologia. 
 
-<h6> :point_up: AH!! Fico super empolgada em receber feedbacks, então se algo chamar a sua atenção, sinta-se à vontade para me contar! Estou sempre aberta a sugestões e novas ideias. </h6> 
-
 <div align="center">
 
 ## Contato
@@ -43,3 +41,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myllenammartins&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myllenammartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+## Feedback
+<h6> :point_up: AH!! Fico super empolgada em receber feedbacks, então se algo chamar a sua atenção, sinta-se à vontade para me contar! Estou sempre aberta a sugestões e novas ideias. </h6> 
