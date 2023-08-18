@@ -1,5 +1,6 @@
 # Olá, sou a Myllena ! 👩‍💻
  ## Bem vinda(o) ao meu perfil GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
  <img align="right" width="300" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" />
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
@@ -43,5 +44,5 @@
 </div>
  
 ***
-## Feeback
+## Feedback
 <h6> :point_up: AH!! Fico super empolgada em receber feedbacks, então se algo chamar a sua atenção, sinta-se à vontade para me contar! Estou sempre aberta a sugestões e novas ideias. </h6> 
