@@ -1,12 +1,11 @@
 # Olá, sou a Myllena ! 👩‍💻
  ## Bem vinda(o) ao meu perfil GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <img align="right" width="300" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" />
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
-
-
-
+ 
 - 🌱 Atualmente estou aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
-- ⚡ Apaixonada por ciência e tecnologia. 
+- ⚡ Apaixonada por ciência e tecnologia.
 
 <div align="center">
 
