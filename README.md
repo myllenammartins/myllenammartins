@@ -3,6 +3,7 @@
  
  <img align="right" width="300" src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" />
 
+
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
  
 - 🌱 Atualmente estou aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
