@@ -37,6 +37,7 @@
 | Organização | <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> |
 | Documentação | <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white" /> | |
 | Teste | <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />  | |
+| Design | <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> |
 
 
 ***
