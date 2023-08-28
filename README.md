@@ -6,7 +6,7 @@
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
  
-- 🌱 Atualmente estou aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
+- 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas e aprendendo desenvolvimento web : HTML | CSS | JavaScript | Node.js
 - ⚡ Apaixonada por ciência e tecnologia.
 
 <div align="center">
