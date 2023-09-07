@@ -6,7 +6,7 @@
 
  ### Aqui é o lugar onde guardo todos os meus projetos desenvolvidos ao longo da minha jornada na área da programação.
  
-- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas e trabalhando em alguns projetos pessoas de desenvolvimento web e de ciência de dados.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e trabalhando em alguns projetos pessoas de desenvolvimento web e de ciência de dados.
 - ⚡ Apaixonada por ciência e tecnologia.
 
 <div align="center">
